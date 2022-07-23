@@ -5,5 +5,5 @@
 ### Tervetuloa GitHub-sivulleni! 
 Olen kiinnostunut koodaamisesta ja teknologiasta.
 
-- Nettisivuni: <a href="https://nikke.ml">www.nikke.ml</a>
+- Nettisivuni: <a href="https://nikke.dev">www.nikke.dev</a>
 - Discord: <b>Nikke#2025</b>

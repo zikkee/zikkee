@@ -1,4 +1,4 @@
-<img src="https://nikke.ml/vanha-sivusto/loota/banner2.jpg">
+<img src="https://nikke.dev/vanha-sivusto/loota/banner2.jpg">
 
 ![](https://komarev.com/ghpvc/?username=zikkee)
 

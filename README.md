@@ -1,4 +1,4 @@
-<img src="https://nikke.ml/loota/banner2.jpg">
+<img src="https://nikke.ml/vanha-sivusto/loota/banner2.jpg">
 
 ![](https://komarev.com/ghpvc/?username=zikkee)
 
@@ -22,3 +22,4 @@ Koodikielet, joita käytän:
 Linkkejä:
    - Nettisivuni: <a href="https://nikke.dev">www.nikke.dev</a>
    - Discord: <b>Nikke#2025</b>
+   - Liity Testausserverille: https://testausserveri.fi

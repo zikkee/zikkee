@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=zikkee)
 
 ### Welcome to my Github-page! 
-Olen kiinnostunut koodaamisesta ja teknologiasta.
+I'm interested in coding and technology.
 
 <b>My devices:</b>
    - Desktop: R5 3600x, 16gb ram, RX590.

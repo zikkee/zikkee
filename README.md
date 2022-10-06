@@ -2,16 +2,16 @@
 
 ![](https://komarev.com/ghpvc/?username=zikkee)
 
-### Tervetuloa GitHub-sivulleni! 
+### Welcome to my Github-page! 
 Olen kiinnostunut koodaamisesta ja teknologiasta.
 
-<b>Laitteistojani:</b>
-   - Pöytäkone: R5 3600x, 16gb ram, RX590.
-   - Läppäri: Elitebook 840 G3, i5-6200U, 8GB ram
-   - Minipalvelin: Raspberry Pi 3B+
+<b>My devices:</b>
+   - Desktop: R5 3600x, 16gb ram, RX590.
+   - Laptop: Elitebook 840 G3, i5-6200U, 8GB ram
+   - Miniserver: Raspberry Pi 3B+
    - VPS: 4x vCPU, 8GB RAM, 200GB SSD
 
-<b>Koodikielet, joita käytän:</b>
+<b>Languages:</b>
    - JavaScript
    - Java
    - HTML
@@ -19,7 +19,7 @@ Olen kiinnostunut koodaamisesta ja teknologiasta.
    - PHP
    - Python
 
-<b>Linkkejä:</b>
-   - Nettisivuni: <a href="https://nikke.dev">www.nikke.dev</a>
+<b>Links:</b>
+   - My homepage: <a href="https://nikke.dev">www.nikke.dev</a>
    - Discord: <b>Nikke#2025</b>
-   - Liity Testausserverille: https://testausserveri.fi
+   - Join to Testausserveri: https://testausserveri.fi

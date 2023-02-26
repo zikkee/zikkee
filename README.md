@@ -8,8 +8,6 @@ I'm interested in coding and technology.
 <b>My devices:</b>
    - Desktop: R5 3600x, 16gb ram, RX590.
    - Laptop: Elitebook 840 G3, i5-6200U, 8GB ram
-   - Miniserver: Raspberry Pi 3B+
-   - VPS: 4x vCPU, 8GB RAM, 200GB SSD
 
 <b>Languages:</b>
    - JavaScript

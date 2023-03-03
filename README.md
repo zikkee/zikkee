@@ -1,9 +1,10 @@
 
-## Hi, my name is Niklas aka Nikke and welcome to my GitHub-page! 👋
+# Hi, my name is Niklas aka Nikke and welcome to my GitHub-page! 👋
 ![](https://komarev.com/ghpvc/?username=zikkee)
+<br>
 I'm interested in coding, technology and servers.
 
-<b>My devices:</b>
+### My devices:
    - Desktop: R5 3600x, 16gb ram, RX590 (Windows 11)
    - Laptop: HP Elitebook 840 G3, i5-6200U, 8GB ram (Fedora Workstation)
 
@@ -15,7 +16,7 @@ I'm interested in coding, technology and servers.
    - <img alt="PHP" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" /> PHP<br />
    - <img alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" /> Python<br />
 
-<b>Tools:</b>
+### Tools:
    - <img alt="VSCode" width="26px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" /> Visual Studio Code<br />
    - <img alt="IntelliJ IDEA" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1200px-IntelliJ_IDEA_Icon.svg.png" /> IntelliJ IDEA Ultimate<br />
    - <img alt="Docker" width="26px" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" /> Docker<br />
@@ -23,9 +24,13 @@ I'm interested in coding, technology and servers.
    - <img alt="Git" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" /> Git<br />
    - <img alt="Pterodactyl" width="26px" src="https://paneeli.motimaa.net/assets/svgs/pterodactyl.svg" /> Pterodactyl<br />
    
-<b>Links:</b>
+### Links:
    - My homepage: <a href="https://nikke.dev">www.nikke.dev</a>
+   - Status page: <a href="https://status.nikke.dev">status.nikke.dev</a>
+
+### Contact:
+   - Email: <a href="mailto:nikke@nikke.dev">nikke@nikke.dev</a>
    - Discord: <b>Nikke#2025</b>
-   - Join to Testausserveri: https://testausserveri.fi
+   - Matrix: <a href="https://matrix.to/#/@nikke:pikaviestin.fi">@nikke:pikaviestin.fi</a>
 
 

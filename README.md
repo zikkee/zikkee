@@ -6,7 +6,7 @@ I'm interested in coding, technology and servers.
 
 ### My devices:
    - Desktop: R5 3600x, 16gb ram, RX590 (Windows 11)
-   [//]: <> - Laptop: HP Elitebook 840 G3, i5-6200U, 8GB ram (Fedora Workstation)
+   - Laptop: HP Elitebook 840 G3, i5-6200U, 8GB ram (Fedora Workstation)
 
 <b>Languages:</b>
    - <img alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"/> JavaScript<br />

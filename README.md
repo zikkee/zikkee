@@ -15,6 +15,7 @@ I'm interested in coding, technology and servers.
    - <img alt="CSS" width="26px" src="https://cdn.freebiesupply.com/logos/large/2x/css3-logo-png-transparent.png" /> CSS<br />
    - <img alt="PHP" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" /> PHP<br />
    - <img alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" /> Python<br />
+   - <img alt="Go" width="26px" src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Blue.png" /> Go (learning)<br />
 
 ### Tools:
    - <img alt="VSCode" width="26px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" /> Visual Studio Code<br />

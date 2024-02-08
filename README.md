@@ -32,6 +32,6 @@ I'm interested in coding, technology and servers.
 ### Contact:
    - Email: <a href="mailto:nikke@nikke.dev">nikke@nikke.dev</a>
    - Discord: <b>@nikkedev</b>
-   - Matrix: <a href="https://matrix.to/#/@nikke:pikaviestin.fi">@nikke:beeper.com</a>
+   - Matrix: <a href="https://matrix.to/#/@nikke:beeper.com">@nikke:beeper.com</a>
 
 

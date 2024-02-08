@@ -5,8 +5,8 @@
 I'm interested in coding, technology and servers.
 
 ### My devices:
-   - Desktop: R5 3600x, 16gb ram, RX590 (Windows 11)
-   - Laptop: HP Elitebook 840 G3, i5-6200U, 8GB ram (Fedora Workstation)
+   - Desktop: R5 3600x, 16gb ram, RX590 (Arch Linux/Windows 11)
+   - Laptop: HP Elitebook 840 G5, i5-8250U, 8GB ram (Windows 11)
 
 <b>Languages:</b>
    - <img alt="JavaScript" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"/> JavaScript<br />
@@ -31,7 +31,7 @@ I'm interested in coding, technology and servers.
 
 ### Contact:
    - Email: <a href="mailto:nikke@nikke.dev">nikke@nikke.dev</a>
-   - Discord: <b>Nikke#2025</b>
-   - Matrix: <a href="https://matrix.to/#/@nikke:pikaviestin.fi">@nikke:pikaviestin.fi</a>
+   - Discord: <b>@nikkedev</b>
+   - Matrix: <a href="https://matrix.to/#/@nikke:pikaviestin.fi">@nikke:beeper.com</a>
 
 
